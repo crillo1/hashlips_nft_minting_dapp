@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xcEBcE60563F28bcd9fB382B9B6D404CC1601B76F",
-  "SCAN_LINK": "https://scout.ech.network/address/0xcEBcE60563F28bcd9fB382B9B6D404CC1601B76F/",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
   "NETWORK": {
     "NAME": "Echelon",
     "SYMBOL": "ECH",
     "ID": 3000
   },
-  "NFT_NAME": "CaimanNft",
-  "SYMBOL": "CAI",
-  "MAX_SUPPLY": 3200,
+  "NFT_NAME": "Bored Ape Echelon Club",
+  "SYMBOL": "BAEC",
+  "MAX_SUPPLY": 5000,
   "WEI_COST": 180000000000000000000,
-  "DISPLAY_COST": 180,
+  "DISPLAY_COST": 500,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Echelonart.io",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE_LINK": "Echelonart.io",
   "SHOW_BACKGROUND": true
 }
