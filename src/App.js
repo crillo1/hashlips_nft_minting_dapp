@@ -205,7 +205,7 @@ function App() {
         <s.SpacerLarge />
         <ResponsiveWrapper flex={1} style={{ padding: 25 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"/config/images/example.png"} />
+            <StyledImg alt={"example"} src={"/config/images/dg.gif"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
@@ -373,7 +373,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"/config/images/dg.gif"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>
