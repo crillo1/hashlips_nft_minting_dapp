@@ -26,13 +26,13 @@ export const SpacerSmall = styled.div`
 
 // Used for providing space between components
 export const SpacerMedium = styled.div`
-  height: 24px;
+  height: 30px;
   width: 24px;
 `;
 
 // Used for providing space between components
 export const SpacerLarge = styled.div`
-  height: 32px;
+  height: 40px;
   width: 32px;
 `;
 
