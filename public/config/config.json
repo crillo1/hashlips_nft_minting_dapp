@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "https://explorer.dogechain.dog/address/0xA72caAa9baAF77B3Ebdbc4C5118A77209D1E01B4",
-  "SCAN_LINK": "https://explorer.dogechain.dog/",
+  "CONTRACT_ADDRESS": "0xA72caAa9baAF77B3Ebdbc4C5118A77209D1E01B4",
+  "SCAN_LINK": "https://explorer.dogechain.dog/0x49B76d4e8524252cCE9156ea6d5d7bab07c91C31",
   "NETWORK": {
     "NAME": "Dogechain",
     "SYMBOL": "wDOGE",
